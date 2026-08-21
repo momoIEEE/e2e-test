@@ -1,0 +1,1 @@
+fix: set hello value to "hello" (closes #1)
