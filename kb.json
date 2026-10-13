@@ -1,0 +1,15 @@
+{
+  "id": "1012",
+  "name": "1012",
+  "description": "",
+  "createdAt": 1791787286089,
+  "caps": {
+    "github": {
+      "repo": "momoIEEE/e2e-test",
+      "branch": "main",
+      "syncStatus": "syncing",
+      "lastSyncAt": 1791885985924
+    }
+  },
+  "rootDir": "C:\\tmp"
+}

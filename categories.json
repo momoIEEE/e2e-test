@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "updatedAt": 1791885156837,
+  "entries": [
+    {
+      "path": "测试目录1",
+      "name": "测试目录1",
+      "isDir": true,
+      "size": 0,
+      "modifiedAt": 1791791619849.8174
+    },
+    {
+      "path": "测试文档012.md",
+      "name": "测试文档012.md",
+      "isDir": false,
+      "size": 28,
+      "modifiedAt": 1791862743114.3696
+    }
+  ]
+}
